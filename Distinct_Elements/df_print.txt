@@ -1,0 +1,6 @@
+       m       estimate     stdev  satisfies_1dev_margin  satisfies_2dev_margin
+0    512  940747.444536  0,045962                  False                   True
+1   1024  985207.537650  0,032500                   True                   True
+2   2048  999646.365089  0,022981                   True                   True
+3   8192  988574.761804  0,011490                   True                   True
+4  16384  988676.715205  0,008125                  False                   True
