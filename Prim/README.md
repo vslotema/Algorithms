@@ -1,3 +1,3 @@
-##### Leaderboard
+## Leaderboard
 
 ![](leaderboard.PNG)
